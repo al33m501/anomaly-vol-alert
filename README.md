@@ -5,6 +5,8 @@ https://github.com/rasulibragimov
 
 https://github.com/al33m501
 
+https://github.com/GiryaII
+
 
 Алгоритм поиска аномальных значений объема и изменения цены и принятия решения о покупке/продаже.
 Для запуска необходим REFRESH TOKEN брокера АЛОР. Необходимые модули есть в _requirements.txt_
